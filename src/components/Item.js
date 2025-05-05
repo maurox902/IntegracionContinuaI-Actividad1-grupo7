@@ -1,6 +1,7 @@
 import React from "react";
 import Container from "./Container";
 
+//Items
 const Item = ({ searchTerm }) => {
   return (
     <div>
