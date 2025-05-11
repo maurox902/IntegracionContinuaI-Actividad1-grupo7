@@ -1,0 +1,3 @@
+# calculadora.py
+def operaciones_basicas():
+    pass  # mover aquí sumar, restar...
